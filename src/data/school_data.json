@@ -1,0 +1,946 @@
+[
+    {
+      "No": 1,
+      "Block": "PARNER",
+      "CRC": "ALKUTI",
+      "UDISE Code": "27260700101",
+      "School Name": "Z.P.P.SCHOOL ALKUTI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 2,
+      "Block": "PARNER",
+      "CRC": "ALKUTI",
+      "UDISE Code": "27260700102",
+      "School Name": "SHRI SAINATH HGH SCHOOL ALKUTI",
+      "MGT": "Private Aided"
+    },
+    {
+      "No": 3,
+      "Block": "PARNER",
+      "CRC": "ALKUTI",
+      "UDISE Code": "27260700103",
+      "School Name": "Z.P.P.SCHOOL BAIROBAWADI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 4,
+      "Block": "PARNER",
+      "CRC": "ALKUTI",
+      "UDISE Code": "27260700106",
+      "School Name": "SAI EDUCATION CENTRE ENGLISH MEDIUM ALKUTI",
+      "MGT": "Self Finance School"
+    },
+    {
+      "No": 5,
+      "Block": "PARNER",
+      "CRC": "ALKUTI",
+      "UDISE Code": "27260700201",
+      "School Name": "Z.P.P.SCHOOL CHOMBHUT",
+      "MGT": "ZP"
+    },
+    {
+      "No": 6,
+      "Block": "PARNER",
+      "CRC": "ALKUTI",
+      "UDISE Code": "27260700202",
+      "School Name": "Z.P.P.SCHOOL DAREKARVASTI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 7,
+      "Block": "PARNER",
+      "CRC": "ALKUTI",
+      "UDISE Code": "27260700301",
+      "School Name": "Z.P.P.SCHOOL GARKHINDI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 8,
+      "Block": "PARNER",
+      "CRC": "ALKUTI",
+      "UDISE Code": "27260700401",
+      "School Name": "Z.P.P.SCHOOL KALAS",
+      "MGT": "ZP"
+    },
+    {
+      "No": 9,
+      "Block": "PARNER",
+      "CRC": "ALKUTI",
+      "UDISE Code": "27260700402",
+      "School Name": "NEW ENGLISH SCHOOL KALAS",
+      "MGT": "Private Aided"
+    },
+    {
+      "No": 10,
+      "Block": "PARNER",
+      "CRC": "ALKUTI",
+      "UDISE Code": "27260700501",
+      "School Name": "Z.P.P.SCHOOL MHASKEWADI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 11,
+      "Block": "PARNER",
+      "CRC": "ALKUTI",
+      "UDISE Code": "27260700502",
+      "School Name": "Z.P.P.SCHOOL SHINDEMALA",
+      "MGT": "ZP"
+    },
+    {
+      "No": 12,
+      "Block": "PARNER",
+      "CRC": "ALKUTI",
+      "UDISE Code": "27260700601",
+      "School Name": "Z.P.P.SCHOOL PADALIALE",
+      "MGT": "ZP"
+    },
+    {
+      "No": 13,
+      "Block": "PARNER",
+      "CRC": "ALKUTI",
+      "UDISE Code": "27260700602",
+      "School Name": "Z.P.P.SCHOOL DERESHIVAR",
+      "MGT": "ZP"
+    },
+    {
+      "No": 14,
+      "Block": "PARNER",
+      "CRC": "ALKUTI",
+      "UDISE Code": "27260700701",
+      "School Name": "Z.P.P.SCHOOL RENVADI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 15,
+      "Block": "PARNER",
+      "CRC": "ALKUTI",
+      "UDISE Code": "27260700801",
+      "School Name": "Z.P.P.SCHOOL POKHARKAR ZHAP",
+      "MGT": "ZP"
+    },
+    {
+      "No": 16,
+      "Block": "PARNER",
+      "CRC": "BHALVANI",
+      "UDISE Code": "27260700901",
+      "School Name": "Z.P.P.SCHOOL BHALVANI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 17,
+      "Block": "PARNER",
+      "CRC": "BHALVANI",
+      "UDISE Code": "27260700902",
+      "School Name": "Z.P.P.SCHOOL MALWADI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 18,
+      "Block": "PARNER",
+      "CRC": "BHALVANI",
+      "UDISE Code": "27260700903",
+      "School Name": "Z.P.P.SCHOOL NAGBENDWADI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 19,
+      "Block": "PARNER",
+      "CRC": "BHALVANI",
+      "UDISE Code": "27260700904",
+      "School Name": "Z.P.P.SCHOOL DAHAVAMAIL",
+      "MGT": "ZP"
+    },
+    {
+      "No": 20,
+      "Block": "PARNER",
+      "CRC": "BHALVANI",
+      "UDISE Code": "27260700905",
+      "School Name": "Z.P.P.SCHOOL PIRACHIWADI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 21,
+      "Block": "PARNER",
+      "CRC": "BHALVANI",
+      "UDISE Code": "27260700906",
+      "School Name": "MAHATMA FULE HGH BHALVANI",
+      "MGT": "Private Aided"
+    },
+    {
+      "No": 22,
+      "Block": "PARNER",
+      "CRC": "BHALVANI",
+      "UDISE Code": "27260700907",
+      "School Name": "IZAK ENGLISH MEDIUM SCHOOL",
+      "MGT": "Self Finance School"
+    },
+    {
+      "No": 23,
+      "Block": "PARNER",
+      "CRC": "BHALVANI",
+      "UDISE Code": "27260701001",
+      "School Name": "Z.P.P.SCHOOL BHANGADEWADI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 24,
+      "Block": "PARNER",
+      "CRC": "BHALVANI",
+      "UDISE Code": "27260701101",
+      "School Name": "Z.P.P.SCHOOL DHOTARE BUK",
+      "MGT": "ZP"
+    },
+    {
+      "No": 25,
+      "Block": "PARNER",
+      "CRC": "BHALVANI",
+      "UDISE Code": "27260701103",
+      "School Name": "Z.P.P.SCHOOL MANCHARE DARA",
+      "MGT": "ZP"
+    },
+    {
+      "No": 26,
+      "Block": "PARNER",
+      "CRC": "BHALVANI",
+      "UDISE Code": "27260701104",
+      "School Name": "NEW ENGLISH SCHOOL DOTARE  BUK",
+      "MGT": "Private Aided"
+    },
+    {
+      "No": 27,
+      "Block": "PARNER",
+      "CRC": "BHALVANI",
+      "UDISE Code": "27260701201",
+      "School Name": "Z.P.P.SCHOOL DHOTRE KHURD",
+      "MGT": "ZP"
+    },
+    {
+      "No": 28,
+      "Block": "PARNER",
+      "CRC": "BHALVANI",
+      "UDISE Code": "27260701202",
+      "School Name": "Z.P.P.SCHOOL TUFANVASTI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 29,
+      "Block": "PARNER",
+      "CRC": "BHALVANI",
+      "UDISE Code": "27260701301",
+      "School Name": "Z.P.P.SCHOOL GOREGAON",
+      "MGT": "ZP"
+    },
+    {
+      "No": 30,
+      "Block": "PARNER",
+      "CRC": "BHALVANI",
+      "UDISE Code": "27260701302",
+      "School Name": "Z.P.P.SCHOOL DHAVALDARA",
+      "MGT": "ZP"
+    },
+    {
+      "No": 31,
+      "Block": "PARNER",
+      "CRC": "BHALVANI",
+      "UDISE Code": "27260701303",
+      "School Name": "Z.P.P.SCHOOL MALAIVASTI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 32,
+      "Block": "PARNER",
+      "CRC": "BHALVANI",
+      "UDISE Code": "27260701304",
+      "School Name": "GORESHVAR HGH GOREGAON",
+      "MGT": "Private Aided"
+    },
+    {
+      "No": 33,
+      "Block": "PARNER",
+      "CRC": "BHALVANI",
+      "UDISE Code": "27260701306",
+      "School Name": "Z.P.P.SCHOOL KHADAKVASTI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 34,
+      "Block": "PARNER",
+      "CRC": "BHALVANI",
+      "UDISE Code": "27260701307",
+      "School Name": "Z.P.P.SCHOOL GARMAL",
+      "MGT": "ZP"
+    },
+    {
+      "No": 35,
+      "Block": "PARNER",
+      "CRC": "BHALVANI",
+      "UDISE Code": "27260701308",
+      "School Name": "MANTHAN PUBLIC SCHOOL GOREGAON",
+      "MGT": "Self Finance School"
+    },
+    {
+      "No": 36,
+      "Block": "PARNER",
+      "CRC": "BHALVANI",
+      "UDISE Code": "27260701401",
+      "School Name": "Z.P.P.SCHOOL HIVARE KORDA",
+      "MGT": "ZP"
+    },
+    {
+      "No": 37,
+      "Block": "PARNER",
+      "CRC": "BHALVANI",
+      "UDISE Code": "27260701402",
+      "School Name": "Z.P.P.SCHOOL MANJARDHAV",
+      "MGT": "ZP"
+    },
+    {
+      "No": 38,
+      "Block": "PARNER",
+      "CRC": "BHALVANI",
+      "UDISE Code": "27260701403",
+      "School Name": "K. TRIMBAKRAO KORADE MADHYAMIK VIDYALAYA HIVARE KORDA",
+      "MGT": "Private Unaided"
+    },
+    {
+      "No": 39,
+      "Block": "PARNER",
+      "CRC": "BHALVANI",
+      "UDISE Code": "27260701501",
+      "School Name": "Z.P.P.SCHOOL KALKUP",
+      "MGT": "ZP"
+    },
+    {
+      "No": 40,
+      "Block": "PARNER",
+      "CRC": "BHALVANI",
+      "UDISE Code": "27260701502",
+      "School Name": "Z.P.P.SCHOOL KADAMVASTI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 41,
+      "Block": "PARNER",
+      "CRC": "BHALVANI",
+      "UDISE Code": "27260701601",
+      "School Name": "Z.P.P.SCHOOL MALKUP",
+      "MGT": "ZP"
+    },
+    {
+      "No": 42,
+      "Block": "PARNER",
+      "CRC": "BHALVANI",
+      "UDISE Code": "27260701602",
+      "School Name": "Z.P.P.SCHOOL INAMVASTI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 43,
+      "Block": "PARNER",
+      "CRC": "BHALVANI",
+      "UDISE Code": "27260701701",
+      "School Name": "Z.P.P.SCHOOL PADALI KANHUR",
+      "MGT": "ZP"
+    },
+    {
+      "No": 44,
+      "Block": "PARNER",
+      "CRC": "BHALVANI",
+      "UDISE Code": "27260701801",
+      "School Name": "Z.P.P.SCHOOL VADGAON AMALI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 45,
+      "Block": "PARNER",
+      "CRC": "DEVIBHOYRE",
+      "UDISE Code": "27260701901",
+      "School Name": "Z.P.P.SCHOOL BABHULWADE",
+      "MGT": "ZP"
+    },
+    {
+      "No": 46,
+      "Block": "PARNER",
+      "CRC": "DEVIBHOYRE",
+      "UDISE Code": "27260701903",
+      "School Name": "Z.P.P.SCHOOL THAKARWADI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 47,
+      "Block": "PARNER",
+      "CRC": "DEVIBHOYRE",
+      "UDISE Code": "27260701904",
+      "School Name": "Z.P.P.SCHOOL NAVALEVASTI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 48,
+      "Block": "PARNER",
+      "CRC": "DEVIBHOYRE",
+      "UDISE Code": "27260701905",
+      "School Name": "KEDARESHVAR HGH BABHULWADE",
+      "MGT": "Private Aided"
+    },
+    {
+      "No": 49,
+      "Block": "PARNER",
+      "CRC": "DEVIBHOYRE",
+      "UDISE Code": "27260701906",
+      "School Name": "Z P P SCHOOL PIRANIVASTI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 50,
+      "Block": "PARNER",
+      "CRC": "DEVIBHOYRE",
+      "UDISE Code": "27260701907",
+      "School Name": "JAIBAI YEVALE KENDRIYA ADIVASI ASHRAMSHALA THAKARWADI",
+      "MGT": "Tribal Welfare Private Aided"
+    },
+    {
+      "No": 51,
+      "Block": "PARNER",
+      "CRC": "DEVIBHOYRE",
+      "UDISE Code": "27260702001",
+      "School Name": "Z.P.P.SCHOOL DEVIBHOYARE",
+      "MGT": "ZP"
+    },
+    {
+      "No": 52,
+      "Block": "PARNER",
+      "CRC": "DEVIBHOYRE",
+      "UDISE Code": "27260702002",
+      "School Name": "Z.P.P.SCHOOL TUKAIWADI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 53,
+      "Block": "PARNER",
+      "CRC": "DEVIBHOYRE",
+      "UDISE Code": "27260702003",
+      "School Name": "Z.P.P.SCHOOL SAKHARKARKHANA",
+      "MGT": "ZP"
+    },
+    {
+      "No": 54,
+      "Block": "PARNER",
+      "CRC": "DEVIBHOYRE",
+      "UDISE Code": "27260702004",
+      "School Name": "Z.P.P.SCHOOL BELOTEVASTI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 55,
+      "Block": "PARNER",
+      "CRC": "DEVIBHOYRE",
+      "UDISE Code": "27260702005",
+      "School Name": "Z.P.P. MALWADI  DEVIBHEYARE",
+      "MGT": "ZP"
+    },
+    {
+      "No": 56,
+      "Block": "PARNER",
+      "CRC": "DEVIBHOYRE",
+      "UDISE Code": "27260702006",
+      "School Name": "Z.P.P SCHOOL SARADEVASTI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 57,
+      "Block": "PARNER",
+      "CRC": "DEVIBHOYRE",
+      "UDISE Code": "27260702010",
+      "School Name": "AMBIKA VIDYALAYA DEVIBHOYARE",
+      "MGT": "Private Aided"
+    },
+    {
+      "No": 58,
+      "Block": "PARNER",
+      "CRC": "DEVIBHOYRE",
+      "UDISE Code": "27260702101",
+      "School Name": "Z.P.P.SCHOOL SHIRSULE",
+      "MGT": "ZP"
+    },
+    {
+      "No": 59,
+      "Block": "PARNER",
+      "CRC": "DEVIBHOYRE",
+      "UDISE Code": "27260702201",
+      "School Name": "Z.P.P.SCHOOL WADGAON GUND",
+      "MGT": "ZP"
+    },
+    {
+      "No": 60,
+      "Block": "PARNER",
+      "CRC": "DHAVALPURI",
+      "UDISE Code": "27260702301",
+      "School Name": "Z.P.P.SCHOOL DHAVALPURI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 61,
+      "Block": "PARNER",
+      "CRC": "DHAVALPURI",
+      "UDISE Code": "27260702302",
+      "School Name": "Z.P.P.SCHOOL KUTEWADI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 62,
+      "Block": "PARNER",
+      "CRC": "DHAVALPURI",
+      "UDISE Code": "27260702303",
+      "School Name": "Z.P.P.SCHOOL GAVDEWADI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 63,
+      "Block": "PARNER",
+      "CRC": "DHAVALPURI",
+      "UDISE Code": "27260702304",
+      "School Name": "Z.P.P.SCHOOL THAKARWADI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 64,
+      "Block": "PARNER",
+      "CRC": "DHAVALPURI",
+      "UDISE Code": "27260702305",
+      "School Name": "Z.P.P.SCHOOL BHOKARDARA",
+      "MGT": "ZP"
+    },
+    {
+      "No": 65,
+      "Block": "PARNER",
+      "CRC": "DHAVALPURI",
+      "UDISE Code": "27260702306",
+      "School Name": "Z.P.P.SCHOOL RANMALA",
+      "MGT": "ZP"
+    },
+    {
+      "No": 66,
+      "Block": "PARNER",
+      "CRC": "DHAVALPURI",
+      "UDISE Code": "27260702307",
+      "School Name": "Z.P.P.SCHOOL LAMANTANDA",
+      "MGT": "ZP"
+    },
+    {
+      "No": 67,
+      "Block": "PARNER",
+      "CRC": "DHAVALPURI",
+      "UDISE Code": "27260702308",
+      "School Name": "Z.P.P.SCHOOL WAGHWADI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 68,
+      "Block": "PARNER",
+      "CRC": "DHAVALPURI",
+      "UDISE Code": "27260702309",
+      "School Name": "Z.P.P.SCHOOL SUTARWADI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 69,
+      "Block": "PARNER",
+      "CRC": "DHAVALPURI",
+      "UDISE Code": "27260702310",
+      "School Name": "Z.P.P.SCHOOL DAREKARWADI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 70,
+      "Block": "PARNER",
+      "CRC": "DHAVALPURI",
+      "UDISE Code": "27260702311",
+      "School Name": "Z.P.P.SCHOOL MUSALMANWADI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 71,
+      "Block": "PARNER",
+      "CRC": "BHALVANI",
+      "UDISE Code": "27260702312",
+      "School Name": "Z.P.P.SCHOOL KHARWADI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 72,
+      "Block": "PARNER",
+      "CRC": "DHAVALPURI",
+      "UDISE Code": "27260702313",
+      "School Name": "PRI. ASHRAM SHALA DHAVALPURI",
+      "MGT": "Social Welfare Private Aided"
+    },
+    {
+      "No": 73,
+      "Block": "PARNER",
+      "CRC": "DHAVALPURI",
+      "UDISE Code": "27260702314",
+      "School Name": "DURGADEVI HIGH SCHOOL DHAVALPURI",
+      "MGT": "Private Aided"
+    },
+    {
+      "No": 74,
+      "Block": "PARNER",
+      "CRC": "DHAVALPURI",
+      "UDISE Code": "27260702315",
+      "School Name": "MADH ASHRAMSHALA DHAVALPURI",
+      "MGT": "Social Welfare Private Aided"
+    },
+    {
+      "No": 75,
+      "Block": "PARNER",
+      "CRC": "DHAVALPURI",
+      "UDISE Code": "27260702316",
+      "School Name": "Z.P.P.SCHOOL MALWADI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 76,
+      "Block": "PARNER",
+      "CRC": "DHAVALPURI",
+      "UDISE Code": "27260702317",
+      "School Name": "Z.P.P.SCHOOL HEMALACHATANDA",
+      "MGT": "ZP"
+    },
+    {
+      "No": 77,
+      "Block": "PARNER",
+      "CRC": "DHAVALPURI",
+      "UDISE Code": "27260702318",
+      "School Name": "Z.P.P.SCHOOL CHITALKARVASTI (WADACHIWADI)",
+      "MGT": "ZP"
+    },
+    {
+      "No": 78,
+      "Block": "PARNER",
+      "CRC": "DHAVALPURI",
+      "UDISE Code": "27260702319",
+      "School Name": "Z.P.P.SCHOOL VYAVHAREMALA (HANUMANWADI)",
+      "MGT": "ZP"
+    },
+    {
+      "No": 79,
+      "Block": "PARNER",
+      "CRC": "DHAVALPURI",
+      "UDISE Code": "27260702320",
+      "School Name": "Z.P.P.SCHOOL PAWARWADI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 80,
+      "Block": "PARNER",
+      "CRC": "JAMGAON",
+      "UDISE Code": "27260702401",
+      "School Name": "Z.P.P.SCHOOL BHANDGAON",
+      "MGT": "ZP"
+    },
+    {
+      "No": 81,
+      "Block": "PARNER",
+      "CRC": "JAMGAON",
+      "UDISE Code": "27260702403",
+      "School Name": "KALPAVRUKSHA ENGLISH SCHOOL AND JUNIOR COLLEGE BHANDGAON",
+      "MGT": "Self Finance School"
+    },
+    {
+      "No": 82,
+      "Block": "PARNER",
+      "CRC": "JAMGAON",
+      "UDISE Code": "27260702501",
+      "School Name": "Z.P.P.SCHOOL DAHITANE GUNJAL",
+      "MGT": "ZP"
+    },
+    {
+      "No": 83,
+      "Block": "PARNER",
+      "CRC": "JAMGAON",
+      "UDISE Code": "27260702503",
+      "School Name": "Z.P.P.SCHOOL BHORVASTI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 84,
+      "Block": "PARNER",
+      "CRC": "JAMGAON",
+      "UDISE Code": "27260702504",
+      "School Name": "Z.P.P.SCHOOL YEVALEVASTI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 85,
+      "Block": "PARNER",
+      "CRC": "JAMGAON",
+      "UDISE Code": "27260702505",
+      "School Name": "SHRI. KHANDESHWAR VIDYALAYA DAHITNE GUNJAL",
+      "MGT": "Private Aided"
+    },
+    {
+      "No": 86,
+      "Block": "PARNER",
+      "CRC": "JAMGAON",
+      "UDISE Code": "27260702507",
+      "School Name": "Z.P.P.SCHOOL KALAMKARVASTI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 87,
+      "Block": "PARNER",
+      "CRC": "JAMGAON",
+      "UDISE Code": "27260702601",
+      "School Name": "Z.P.P.SCHOOL DIKSAL",
+      "MGT": "ZP"
+    },
+    {
+      "No": 88,
+      "Block": "PARNER",
+      "CRC": "JAMGAON",
+      "UDISE Code": "27260702701",
+      "School Name": "Z.P.P.SCHOOL JAMGAON",
+      "MGT": "ZP"
+    },
+    {
+      "No": 89,
+      "Block": "PARNER",
+      "CRC": "JAMGAON",
+      "UDISE Code": "27260702702",
+      "School Name": "Z.P.P.SCHOOL BANGARWADI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 90,
+      "Block": "PARNER",
+      "CRC": "JAMGAON",
+      "UDISE Code": "27260702703",
+      "School Name": "Z.P.P.SCHOOL BHUJBALVASTI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 91,
+      "Block": "PARNER",
+      "CRC": "JAMGAON",
+      "UDISE Code": "27260702704",
+      "School Name": "Z.P.P.SCHOOL HANUMANWADI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 92,
+      "Block": "PARNER",
+      "CRC": "JAMGAON",
+      "UDISE Code": "27260702705",
+      "School Name": "Z.P.P.SCHOOL SHINDEMALA",
+      "MGT": "ZP"
+    },
+    {
+      "No": 93,
+      "Block": "PARNER",
+      "CRC": "JAMGAON",
+      "UDISE Code": "27260702706",
+      "School Name": "AGRI M P HIGHSCHOOL JAMGAON",
+      "MGT": "Private Aided"
+    },
+    {
+      "No": 94,
+      "Block": "PARNER",
+      "CRC": "JAMGAON",
+      "UDISE Code": "27260702707",
+      "School Name": "SAINT VIVEKANAND PUBLIC SCHOOL JAMGAON",
+      "MGT": "Self Finance School"
+    },
+    {
+      "No": 95,
+      "Block": "PARNER",
+      "CRC": "JAMGAON",
+      "UDISE Code": "27260702801",
+      "School Name": "Z.P.P.SCHOOL LONIHAVELI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 96,
+      "Block": "PARNER",
+      "CRC": "JAMGAON",
+      "UDISE Code": "27260702802",
+      "School Name": "Z.P.P.SCHOOL KOLHEVASTI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 97,
+      "Block": "PARNER",
+      "CRC": "JAMGAON",
+      "UDISE Code": "27260702803",
+      "School Name": "Z.P.P.SCHOOL KHADAKWADI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 98,
+      "Block": "PARNER",
+      "CRC": "JAMGAON",
+      "UDISE Code": "27260702804",
+      "School Name": "SHRI BHAGWANT NATHUJI KOLHE LONESHWAR VIDYALAYA LONIHAVELI",
+      "MGT": "Private Aided"
+    },
+    {
+      "No": 99,
+      "Block": "PARNER",
+      "CRC": "JAMGAON",
+      "UDISE Code": "27260702901",
+      "School Name": "Z.P.P.SCHOOL SAROLA ADVAI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 100,
+      "Block": "PARNER",
+      "CRC": "JAMGAON",
+      "UDISE Code": "27260702902",
+      "School Name": "Z.P.P.SCHOOL FANDVASTI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 101,
+      "Block": "PARNER",
+      "CRC": "JAVLE",
+      "UDISE Code": "27260703001",
+      "School Name": "Z.P.P.SCHOOL GADILGAON",
+      "MGT": "ZP"
+    },
+    {
+      "No": 102,
+      "Block": "PARNER",
+      "CRC": "JAVLE",
+      "UDISE Code": "27260703101",
+      "School Name": "Z.P.P.SCHOOL GANJIBHOYRE",
+      "MGT": "ZP"
+    },
+    {
+      "No": 103,
+      "Block": "PARNER",
+      "CRC": "JAVLE",
+      "UDISE Code": "27260703102",
+      "School Name": "Z.P.P.SCHOOL GANJEWADI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 104,
+      "Block": "PARNER",
+      "CRC": "JAVLE",
+      "UDISE Code": "27260703103",
+      "School Name": "ANCHALESHWAR HIGHSCHOOL GANJI BHOYRE",
+      "MGT": "Private Aided"
+    },
+    {
+      "No": 105,
+      "Block": "PARNER",
+      "CRC": "JAVLE",
+      "UDISE Code": "27260703201",
+      "School Name": "Z.P.P.SCHOOL GUNORE",
+      "MGT": "ZP"
+    },
+    {
+      "No": 106,
+      "Block": "PARNER",
+      "CRC": "JAVLE",
+      "UDISE Code": "27260703401",
+      "School Name": "Z.P.P.SCHOOL JAVALE",
+      "MGT": "ZP"
+    },
+    {
+      "No": 107,
+      "Block": "PARNER",
+      "CRC": "JAVLE",
+      "UDISE Code": "27260703402",
+      "School Name": "Z.P.P.SCHOOL MALWADI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 108,
+      "Block": "PARNER",
+      "CRC": "JAVLE",
+      "UDISE Code": "27260703403",
+      "School Name": "DHARMNATH HGH JAVALE",
+      "MGT": "Private Aided"
+    },
+    {
+      "No": 109,
+      "Block": "PARNER",
+      "CRC": "JAVLE",
+      "UDISE Code": "27260703404",
+      "School Name": "Z.P.P SCHOOL PUNARVASAN JAVALE",
+      "MGT": "ZP"
+    },
+    {
+      "No": 110,
+      "Block": "PARNER",
+      "CRC": "JAVLE",
+      "UDISE Code": "27260703406",
+      "School Name": "LIVING WISDOM SCHOOL, JAWALE",
+      "MGT": "Self Finance School"
+    },
+    {
+      "No": 111,
+      "Block": "PARNER",
+      "CRC": "JAVLE",
+      "UDISE Code": "27260703407",
+      "School Name": "ERA GURUKUL VIDYALAYA, JAWALE",
+      "MGT": "Self Finance School"
+    },
+    {
+      "No": 112,
+      "Block": "PARNER",
+      "CRC": "JAVLE",
+      "UDISE Code": "27260703408",
+      "School Name": "ERA INTERNATIONAL SCHOOL",
+      "MGT": "Self Finance School"
+    },
+    {
+      "No": 113,
+      "Block": "PARNER",
+      "CRC": "JAVLE",
+      "UDISE Code": "27260703501",
+      "School Name": "Z.P.P.SCHOOL MHASEKHURD",
+      "MGT": "ZP"
+    },
+    {
+      "No": 114,
+      "Block": "PARNER",
+      "CRC": "JAVLE",
+      "UDISE Code": "27260703502",
+      "School Name": "Z.P.P.SCHOOL JADHAVWADI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 115,
+      "Block": "PARNER",
+      "CRC": "JAVLE",
+      "UDISE Code": "27260703503",
+      "School Name": "Z.P.P.SCHOOL SHINDEMALA",
+      "MGT": "ZP"
+    },
+    {
+      "No": 116,
+      "Block": "PARNER",
+      "CRC": "JAVLE",
+      "UDISE Code": "27260703601",
+      "School Name": "Z.P.P.SCHOOL PATHARWADI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 117,
+      "Block": "PARNER",
+      "CRC": "JAVLE",
+      "UDISE Code": "27260703602",
+      "School Name": "Z.P.P.SCHOOL BODGEWADI",
+      "MGT": "ZP"
+    },
+    {
+      "No": 118,
+      "Block": "PARNER",
+      "CRC": "JAVLE",
+      "UDISE Code": "27260703603",
+      "School Name": "Z.P.P.SCHOOL PAWARVASTI",
+      "MGT": "ZP"
+    }
+]
