@@ -10,12 +10,11 @@ const SchoolLinks = () => {
           <a
             key={index}
             href={file.link}
-            target="_blank"
-            rel="noopener noreferrer"
+            download
             className="block bg-white shadow-md rounded-xl p-4 border border-gray-200 hover:bg-blue-50 transition"
           >
             <p className="text-gray-800 font-medium">{file.name}</p>
-            <p className="text-sm text-blue-600 mt-1">Open</p>
+            <p className="text-sm text-blue-600 mt-1">Download</p>
           </a>
         ))}
       </div>
